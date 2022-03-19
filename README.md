@@ -6,13 +6,13 @@ This repository is designed to outline the process for proposing and writing art
 ### Proposing a topic:
 GitHub issues and DeWork are synced so either can be used to propose an article
 #### GitHub: 
-1a. Create a new issue with a proposed topic (big green button on the top left)
-2a. Assign yourself and any other contributors to issue  
-3a. Wait for feedback and approval from the labDAO core members 
+1a. Create a new issue with a proposed topic (big green button on the top left).    
+2a. Assign yourself and any other contributors to issue     
+3a. Wait for feedback and approval from the labDAO core members      
 #### DeWork: 
-1b. 
-2b. 
-3b.   
+1b.     
+2b.     
+3b.       
 ### Creating an article: 
 4. Post your article draft as a file in this repository yyyymm_lastname_title.md. 
 5. If working collaboratively, create an hackmd.io account and edit the article within hackmd.io with your collaborator's
