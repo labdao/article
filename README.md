@@ -23,11 +23,10 @@ Before starting a draft, please wait for feedback and approval from the labDAO t
 6. The core team will review the draft for any final feedback    
     *DeWork Task gets moved to "In Review"*
 ### Publishing and disturption:
-8. The completed article will be published on the labDAO website      
+8. The completed article will be published on the labDAO website and promoted via twitter (@lab_dao) and monthly newsletter. Non-core members need to work with core members for this step as they do not have access to these credentials        
     *DeWork Task gets moved to "Done"*      
-    *GitHub issue is closed*  
-    *Article promoted via twitter and monthly newsletter*   
-
+    *GitHub issue is closed*           
+     
 ### Payment distrubution: 
 9. Article payments will be batched and distrubuted at the end of the month
   
