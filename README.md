@@ -4,21 +4,31 @@ This repository is designed to outline the process for proposing and writing art
 ## Article Process 
 
 ### Proposing a topic:
-GitHub issues and DeWork are synced so either can be used to propose an article
+GitHub issues and DeWork are synced so either can be used to propose an article. New to GitHub and DeWork, check out these resources (coming soon)
 #### GitHub: 
-1a. Create a new issue with a proposed topic (big green button on the top left).    
-2a. Assign yourself and any other contributors to issue     
-3a. Wait for feedback and approval from the labDAO core members      
-#### DeWork: 
-1b.     
-2b.     
-3b.       
+1. Create a new issue with a proposed topic (big green button on the top left)      
+2. Assign yourself and any other contributors to issue         
+#### [DeWork](https://app.dework.xyz/o/labdao-3bt1rpGt1z7a1W2ld7B8oA/p/article-7zzuriFc77xqiZdQIYRT7D): 
+1. Create a new task under "To Do" in the DeWork article task board    
+2. Assign yourself and other contributors to the task
+
+#### Feedback
+3. Wait for feedback and approval from the labDAO core members (given in GitHub Issue)    
+      *DeWork Task gets moved to "In Progress"*
+#### Important:
+Before starting a draft, please wait for feedback and approval from the labDAO team. We what to make sure everyone's time is rewarded and valuable to labDAO’s mission. 
 ### Creating an article: 
 4. Post your article draft as a file in this repository yyyymm_lastname_title.md. 
 5. If working collaboratively, create an hackmd.io account and edit the article within hackmd.io with your collaborator's
 ### Review and publishing:
-6. The core team will review for any final feedback
-7. The completed article will be published on the labDAO website
+6. The core team will review the draft for any final feedback   
+    *DeWork Task gets moved to "In Review"*
+8. The completed article will be published on the labDAO website
+    *DeWork Task gets moved to "Done"   
+    *GitHub issue is closed*    
+
+### Payment distrubution: 
+9. Article payments will be batched and distrubuted at the end of the month
   
 ## Suggested Topics and examples: 
 ### Protocol 
@@ -34,8 +44,6 @@ GitHub issues and DeWork are synced so either can be used to propose an article
 * What traditional open source communities can learn from DAOs and vice versa
 * Co-ownership of scientific results in a tokenized world
 * Propose your own topic and idea! 
-
-Important: Before starting a draft, please wait for feedback and approval from the labDAO team. We what to make sure everyone's time is rewarded and valuable to labDAO’s mission. If you have any questions about writing articles please reach out to Tyler Stahl on discord.
 
 ## Team
 Open to both external and internal members of the labDAO community   
