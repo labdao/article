@@ -20,12 +20,13 @@ Before starting a draft, please wait for feedback and approval from the labDAO t
 ### Creating an article: 
 4. Post your article draft as a file in this repository yyyymm_lastname_title.md. 
 5. If working collaboratively, create an hackmd.io account and edit the article within hackmd.io with your collaborator's
-### Review and publishing:
-6. The core team will review the draft for any final feedback   
+6. The core team will review the draft for any final feedback    
     *DeWork Task gets moved to "In Review"*
-8. The completed article will be published on the labDAO website
-    *DeWork Task gets moved to "Done"   
-    *GitHub issue is closed*    
+### Publishing and disturption:
+8. The completed article will be published on the labDAO website      
+    *DeWork Task gets moved to "Done"*      
+    *GitHub issue is closed*  
+    *Article promoted via twitter and monthly newsletter*   
 
 ### Payment distrubution: 
 9. Article payments will be batched and distrubuted at the end of the month
