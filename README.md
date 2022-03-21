@@ -44,8 +44,8 @@ Before starting a draft, please wait for feedback and approval from the labDAO t
 * Propose your own topic and idea! 
 
 ## Team
-Open to both external and internal members of the labDAO community   
-labDAO Community Operations WG will be in charge of approval and feedback of proposed article topics. 
+Open to both external and internal members of the labDAO community. 
+The labDAO Community Operations WG will be in charge of approval and feedback of proposed article topics. 
 
 ## Financials 
 The production of an article, including the writing, editing, illustration, and distribution, 
