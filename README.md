@@ -2,9 +2,8 @@
 This repository is designed to outline the process for proposing and writing articles for labDAO, as well as hosting completed and distributed articles. 
 
 ## Article Process 
-
-### Proposing a topic:
 GitHub issues are used to propose new article topics and record feedback, while DeWork is used to keep track of progress and bounties. New to GitHub and DeWork, check out these resources (coming soon)
+### Proposing a topic:
 #### GitHub: 
 1. Create a new issue with a proposed topic (big green button on the top left) 
     * *Task is automatically created in [DeWork](https://app.dework.xyz/o/labdao-3bt1rpGt1z7a1W2ld7B8oA/p/article-7zzuriFc77xqiZdQIYRT7D) article board*         
